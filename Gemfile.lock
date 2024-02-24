@@ -112,6 +112,9 @@ GEM
     database_consistency (1.7.23)
       activerecord (>= 3.2)
     date (3.3.4)
+    debugbar (0.1.4)
+      actioncable
+      rails
     dotenv (2.8.1)
     dotenv-rails (2.8.1)
       dotenv (= 2.8.1)
@@ -312,6 +315,7 @@ DEPENDENCIES
   benchmark-ips
   benchmark-memory
   database_consistency
+  debugbar
   dotenv-rails
   faker
   faraday
