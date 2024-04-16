@@ -1,0 +1,3 @@
+
+devdb:
+	psql postgres://owner:@localhost:5432/rideshare_development
